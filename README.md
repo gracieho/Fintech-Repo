@@ -15,4 +15,7 @@ For Class 1.3
 
 ```python
 print("Hello world")
+```
+
+![cutepuppies](dog.jpg)
 
